@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mvMonitoring"]
+	path = mvMonitoring
+	url = https://github.com/gabrielodom/mvmonitoring
+	shallow = true
+	registered = true
+[submodule "pathwayPCA"]
+	path = pathwayPCA
+	url = https://github.com/gabrielodom/pathwaypca
+	shallow = true
+	registered = true
