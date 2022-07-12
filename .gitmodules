@@ -8,8 +8,3 @@
 	url = https://github.com/gabrielodom/mvmonitoring
 	shallow = true
 	registered = true
-[submodule "pathwayPCA"]
-	path = pathwayPCA
-	url = https://github.com/gabrielodom/pathwaypca
-	shallow = true
-	registered = true
