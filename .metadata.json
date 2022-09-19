@@ -2,8 +2,5 @@
   {
     "package": "mvMonitoring",
     "oncran": true
-  },
-  {
-    "package": "pathwayPCA"
   }
 ]
