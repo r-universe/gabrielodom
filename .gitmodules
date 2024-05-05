@@ -5,6 +5,3 @@
 [submodule "mvMonitoring"]
 	path = mvMonitoring
 	url = https://github.com/gabrielodom/mvmonitoring
-[submodule "pathwayPCA"]
-	path = pathwayPCA
-	url = https://github.com/gabrielodom/pathwaypca
